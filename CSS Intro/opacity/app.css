@@ -16,3 +16,8 @@ section {
   background-color: yellow;
   opacity: 0.5;
 }
+
+nav ul {
+  display: flex;
+  justify-content: space-between;
+}
